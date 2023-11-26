@@ -1,3 +1,7 @@
+EDIT: This is one my earlier repos, I need to update it to my recent standarts. <br>
+You can check SortingBenchmark, a modern Maven library implementin ga part of this library <br>
+https://github.com/atahanuz/sorting-benchmark
+
 # myJavaLib
 
 A java library with a lot of useful utility functions !
